@@ -1,1 +1,2 @@
 "test commit file" 
+another sampel entry, to see if it will automatically be recognized.
